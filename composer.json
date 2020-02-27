@@ -1,6 +1,6 @@
 {
     "name": "paymoko/commission-task",
-    "description": "Skeleton for Paysera recruitment task",
+    "description": "Commission Fee Scripts for Paymoko Service",
     "keywords": [],
     "type": "project",
     "autoload": {
