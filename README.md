@@ -1,4 +1,4 @@
-# Paymoko Usage
+# Commission Fee Usage
 
 Run the script with the parameter csv file.
 
