@@ -15,7 +15,8 @@
     },
     "require": {
         "php": ">=7.0",
-        "ext-bcmath": "*"
+        "ext-bcmath": "*",
+        "league/csv": "^9.5"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.5",
